@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api.iml" filepath="$PROJECT_DIR$/.idea/modules/api.iml" group="sbt-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-api.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-api/.idea/modules/hello-api-build.iml" filepath="$PROJECT_DIR$/hello-api/.idea/modules/hello-api-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" group="sbt-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbt-demo-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sbt-demo-build.iml" />
+    </modules>
+  </component>
+</project>
